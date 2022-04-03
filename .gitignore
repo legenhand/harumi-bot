@@ -1,4 +1,9 @@
-# Byte-compiled / optimized / DLL files
+# ignore config.json from git
+
+config.json
+
+
+ Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
